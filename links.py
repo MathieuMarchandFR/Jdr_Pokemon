@@ -1,3 +1,7 @@
+#Ce scraper a pour but de récupérer les attaques d'une liste de Pokémon sur le site Poképédia
+#Les résultats n'ont pas été très concluant et je n'avais finalement pas besoin de ces données
+#J'ai néanmoins appris les bases du scrapping avec BeautifulSoup et je pourrais m'adapter à d'autres sites et pousser mes connaissances si besoin.
+
 import os
 import csv
 import requests
