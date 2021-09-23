@@ -18,3 +18,5 @@ La création de personnage joueur
 Des conseils au MJ
 
 
+Beaucoup de choses sont encore à faire, pour le moment seul les codes Python utilisés sont ici.
+Mais mettrais régulièrement à jour cette page.
