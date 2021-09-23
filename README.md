@@ -4,7 +4,17 @@ L'objectif est également d'utiliser des méthodes de data science pour équilib
 
 Le projet s'articule suivant plusieurs parties :
 Le Pokedex, qui regroupe les Pokemons avec leurs caractéristiques
+
+
 Les documents Attaques et Capacités spéciales
+
+
 Les règles
+
+
 La création de personnage joueur
+
+
 Des conseils au MJ
+
+
