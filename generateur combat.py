@@ -1,3 +1,11 @@
+#Ce générateur permet de se faire affronter tous les Pokémons de database selon les règles du jdr. Les résultats sont transmis sur un csv afin de pouvoir les analyser
+#Les KPI sont le taux de victoire des Pokémons en fonction de leur type, de leurs attributs et de leurs attaques mais aussi la durée moyenne des combats.
+#L'objectif est d'arriver à des combats suffisamment longs pour qu'ils soient intéressants et que toutes les statistiques soient intéressantes
+#Il ne s'agit pas par contre d'avoir un pokédex équilibré, il est normal que des pokémons soient meilleurs que les autres.
+#La limite de ce code est qu'il ne prend pas en compte les capacités spéciales ainsi que les capacités spéciales des Pokémons
+#Il nous permet cependant de mieux comprendre, en l'état, quelles sont les meilleurs statistiques du jeu
+#Cet algorithme est à optimiser, son mon pc portable, il a fallu 7 heures pour résoudre les 241²*1000 combats.
+
 import random
 import numpy as np
 import csv
@@ -11,6 +19,8 @@ Pokemon2={"Nom":"Exemple", "Type1":"exemple", "Type2":"exemple", "PV":45, "Att":
 
 Attaque1={"Nom":"Exemple", "Type":"exemple", "Epreuve":'Att', "Bonus_jet": 0, "Nb_d6": 2, "Bonus_degat":4}
 Attaque2={"Nom":"Exemple", "Type":"exemple", "Epreuve":'Att', "Bonus_jet": 0, "Nb_d6": 2, "Bonus_degat":4}
+
+#Les données sont mises dans des dictionnaires pour rendre la modification plus facile
 
 def saisie_poke1(nom,type1,type2,pv,att,_def,attspe,defspe,vit):
     Pokemon1["Nom"] = nom
@@ -66,6 +76,7 @@ def initiative():
         else:
             Premier_poke = Pokemon2["Nom"]
     return Premier_poke
+
 
 def fonction_type(type_attaque, type_defense1, type_defense2):
     liste_type = ["normal", "feu", "eau", "electrique", "plante", "glace", "combat", "poison", "sol", "vol", "psy", "insecte", "roche", "spectre", "dragon", "tenebres", "acier", "fee"]
