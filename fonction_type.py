@@ -1,3 +1,6 @@
+#Ce code est un test pour obtenir un nombre de dé en fonction du type de l'attaque et des types du Pokemon recevant l'attaque.
+#Ce fut l'occasion de me familiariser avec les array de numpy
+
 import numpy as np
 import numpy.linalg as alg
 
