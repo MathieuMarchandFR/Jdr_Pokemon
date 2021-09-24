@@ -1,3 +1,5 @@
+#Optimize a bit my code but it still very slow.
+
 import random
 import numpy as np
 import csv
