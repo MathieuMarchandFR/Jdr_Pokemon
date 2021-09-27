@@ -1,0 +1,242 @@
+﻿Name_Poke;Type1;Type2;HP;Atk;Def;SpeAtk;SpeDef;Speed;Name_Atk;Type;Test;Roll_bonus;Nb_d6;Damage_bonus
+Absol;tenebres;;36;20;10;12;10;16;Mƒchouille;tenebres;atk;0;3;7
+Aéromite;poison;insecte;41;11;11;15;13;15;Prescience;psy;speatk;0;4;8
+Airmure;vol;acier;40;16;18;7;11;17;Aeropique;vol;atk;0;3;5
+Akwakwak;eau;;46;14;13;16;9;16;Hydroqueue;eau;atk;0;3;5
+Alakazam;psy;;32;9;8;21;16;19;Prescience;psy;speatk;0;4;8
+Aligatueur;eau;;50;17;16;13;12;13;Aqua BrŠche;eau;atk;0;3;6
+Altaria;vol;dragon;45;12;15;12;17;14;Vol;vol;atk;-2;3;7
+Amonistar;roche;eau;40;11;20;19;12;10;Pouvoir Antique;roche;speatk;0;3;3
+Apireine;vol;insecte;42;14;16;14;16;8;Aeropique;vol;atk;0;3;5
+Aquali;eau;;70;11;11;18;16;11;Puissance Cach‚e;eau;speatk;0;2;4
+Arbok;poison;;35;16;12;11;13;14;Croc de Mort;normal;atk;0;3;5
+Arcanin;feu;;53;18;13;16;13;15;Lance Flamme;feu;speatk;-1;3;7
+Archéodong;acier;psy;40;11;18;12;18;6;Prescience;psy;speatk;0;4;8
+Armaldo;roche;insecte;45;17;15;12;13;12;Plaie Croix;insecte;atk;0;3;5
+Avaltout;poison;;60;13;14;13;14;10;Cradovague;poison;speatk;0;3;5
+Azumarill;eau;fee;60;11;14;11;14;9;Hydroqueue;eau;atk;0;3;5
+Barbicha;sol;eau;60;14;12;13;12;11;Hydroqueue;eau;atk;0;3;5
+Bastiodon;roche;acier;35;11;26;10;17;9;Gyroballe;acier;atk;0;3;5
+Bekipan;vol;eau;35;12;16;14;13;13;Surf;eau;speatk;0;2;6
+Berserkatt;acier;;42;18;16;9;11;10;Mania;normal;atk;0;3;6
+Blizzaroi;plante;glace;53;16;14;14;14;10;Avalanche;glace;atk;0;2;5
+Bouldeneu;plante;;60;16;20;18;9;9;Pouvoir Antique;roche;speatk;0;3;3
+Branette;spectre;;38;18;11;14;11;12;Mƒchouille;tenebres;atk;0;3;7
+Braségali;combat;feu;46;19;10;17;12;15;Stratopercut;combat;atk;-1;3;5
+Brouhabam;normal;;60;15;11;15;11;12;Bang Sonique;normal;speatk;0;3;5
+Cacturne;plante;tenebres;43;19;13;14;10;12;Lame Feuille;plante;atk;0;3;5
+Camérupt;sol;feu;45;16;12;17;13;9;Canicule;feu;speatk;-2;3;5
+Canarticho;normal;vol;30;15;10;13;11;14;Aeropique;vol;atk;0;3;5
+Capidextre;normal;;45;16;12;10;12;18;Demi-Tour;insecte;atk;0;2;5
+Caratroc;roche;insecte;15;7;35;10;35;5;Puissance Cach‚e;roche;speatk;0;2;4
+Carchacrok;sol;dragon;50;20;16;13;14;16;Draco-Griffe;dragon;atk;0;3;5
+Castorno;normal;eau;48;15;11;7;11;12;Hydroqueue;eau;atk;0;3;5
+Cerfrousse;normal;;42;15;11;14;11;14;DamoclŠs;normal;atk;0;1;10
+Ceriflor;plante;;40;11;12;15;13;14;Giga-Sangsue;plante;speatk;0;2;3
+Chaffreux;normal;;42;14;11;11;11;18;Tranche;normal;atk;0;2;6
+Chapignon;combat;plante;40;10;14;10;10;13;Stratopercut;combat;atk;-1;3;5
+Charkos;roche;;56;25;12;11;9;11;DamoclŠs;normal;atk;0;1;10
+Charmillon;vol;insecte;35;12;9;16;9;11;Giga-Sangsue;plante;speatk;0;2;3
+Charmina;combat;psy;35;15;13;14;13;14;Psykoud'boul;psy;atk;0;3;5
+Chartor;feu;;42;14;22;14;12;9;Canicule;feu;speatk;-2;3;5
+Cheniselle (Cape Déchet);insecte;acier;35;12;16;12;16;7;Survinsecte;insecte;speatk;0;3;3
+Cheniselle (Cape Plante);insecte;plante;35;11;14;13;17;7;Plaie Croix;insecte;atk;0;3;5
+Cheniselle (Cape Sol);insecte;sol;35;13;17;11;14;7;Survinsecte;insecte;speatk;0;3;3
+Cizayox;insecte;acier;40;21;16;10;14;13;Demi-Tour;insecte;atk;0;2;5
+Coatox;combat;poison;50;17;11;14;11;15;Stratopercut;combat;atk;-1;3;5
+Colhomard;eau;tenebres;37;19;14;15;10;10;Pince Masse;eau;atk;-2;3;8
+Colossinge;combat;;38;17;14;11;10;16;Mania;normal;atk;0;3;6
+Corayome;spectre;;35;14;9;20;21;6;Balle Ombre;spectre;speatk;0;3;5
+Corboss;vol;tenebres;60;19;9;17;9;14;Vol;vol;atk;-2;3;7
+Cotovol;vol;plante;45;13;12;13;16;18;Tempˆte Florale;plante;atk;0;3;5
+Coudlangue;normal;;65;14;16;13;16;10;DamoclŠs;normal;atk;0;1;10
+Coxyclaque;vol;insecte;32;10;12;13;18;14;Survinsecte;insecte;speatk;0;3;3
+Crustabri;eau;glace;30;16;28;12;10;9;Gyroballe;acier;atk;0;3;5
+Dardargnan;poison;insecte;38;15;9;10;13;13;Demi-Tour;insecte;atk;0;2;5
+Delcatty;normal;;42;14;12;10;10;15;Eclate Griffe;normal;atk;0;3;2
+Démanta;vol;eau;50;7;14;14;19;13;Surf;eau;speatk;0;2;6
+Démolosse;feu;tenebres;45;15;9;18;11;16;Lance Flamme;feu;speatk;-1;3;7
+Dimoret;glace;tenebres;35;20;9;8;14;20;Avalanche;glace;atk;0;2;5
+Dodrio;normal;vol;35;18;12;11;11;18;Aeropique;vol;atk;0;3;5
+Donphan;sol;;55;19;19;12;12;13;Seisme;sol;atk;0;4;5
+Dracaufeu;vol;feu;46;14;13;18;13;15;Lance Flamme;feu;speatk;-1;3;7
+Dracolosse;vol;dragon;55;21;16;16;16;14;Draco-Griffe;dragon;atk;0;3;5
+Drascore;poison;tenebres;44;15;17;11;12;14;Dark Lariat;tenebres;atk;0;3;5
+Drattak;vol;dragon;56;21;14;18;14;16;Draco-Griffe;dragon;atk;0;3;5
+Ecrémeuh;normal;;56;14;17;8;12;14;Gyroballe;acier;atk;0;3;5
+Ectoplasma;poison;spectre;35;11;10;20;13;17;Balle Ombre;spectre;speatk;0;3;5
+Elecsprint;electrique;;42;13;11;17;11;17;Tonnerre;electrique;speatk;0;3;5
+Electrode;electrique;;35;11;12;14;14;24;Tonnerre;electrique;speatk;0;3;5
+Elekable;electrique;;45;20;12;18;14;14;Tonnerre;electrique;speatk;0;3;5
+Empiflor;poison;plante;46;17;11;16;12;12;Lame Feuille;plante;atk;0;3;5
+Eoko;psy;;40;9;14;16;15;13;Prescience;psy;speatk;0;4;8
+Etouraptor;normal;vol;50;19;12;12;12;16;Aeropique;vol;atk;0;3;5
+Feunard;feu;;42;13;10;15;16;16;Lance Flamme;feu;speatk;-1;3;7
+Feunard d'Alola;glace;fee;42;12;10;14;16;18;Vent F‚‚rique;fee;speatk;0;3;7
+Flagadoss;eau;psy;56;13;17;16;12;6;Surf;eau;speatk;0;2;6
+Flagadoss de Galar;poison;psy;56;16;16;16;12;6;Psykoud'boul;psy;atk;0;3;5
+Florizarre;poison;plante;46;14;14;16;16;12;Tempˆte Florale;plante;atk;0;3;5
+Foretress;insecte;acier;45;12;22;9;14;9;Gyroballe;acier;atk;0;3;5
+Fouinar;normal;;50;13;11;8;10;15;Eclate Griffe;normal;atk;0;3;2
+Galeking;acier;roche;45;17;22;10;10;9;Queue de Fer;acier;atk;-3;3;8
+Gallame;combat;psy;40;20;11;11;18;13;Coupe Psyko;psy;atk;0;2;6
+Galopa;feu;;38;16;12;14;14;17;DamoclŠs;normal;atk;0;1;10
+Galopa de Galar;psy;fee;38;16;12;14;14;17;Coupe Psyko;psy;atk;0;2;6
+Gardevoir;psy;fee;40;11;11;20;18;13;Prescience;psy;speatk;0;4;8
+Girafarig;psy;normal;40;14;11;15;11;14;Psykoud'boul;psy;atk;0;3;5
+Givrali;glace;;40;11;18;21;16;11;Puissance Cach‚e;glace;speatk;0;2;4
+Grahyéna;tenebres;;40;15;12;11;11;13;Mƒchouille;tenebres;atk;0;3;7
+Granbull;fee;;53;19;13;12;12;9;Mƒchouille;tenebres;atk;0;3;7
+Grodoudou;normal;fee;80;12;8;14;11;9;DamoclŠs;normal;atk;0;1;10
+Grodrive;vol;spectre;68;13;8;15;9;13;Balle Ombre;spectre;speatk;0;3;5
+Grolem;sol;roche;46;18;20;10;11;9;Seisme;sol;atk;0;4;5
+Grolem d'Alola;roche;electrique;46;19;21;10;11;9;Seisme;sol;atk;0;4;5
+Groret;psy;;48;9;11;15;18;14;Psykoud'boul;psy;atk;0;3;5
+Grotadmorv;poison;;60;15;12;11;16;9;DamoclŠs;normal;atk;0;1;10
+Grotadmorv d'Alola;poison;tenebres;60;15;12;11;16;9;Repr‚sailles;tenebres;atk;0;2;5
+Hariyama;combat;;80;19;14;7;10;9;Marto-Poing;combat;atk;0;1;10
+Hélédelle;normal;vol;35;14;11;13;9;20;Aeropique;vol;atk;0;3;5
+Héliatronc;plante;;45;13;12;17;14;12;DamoclŠs;normal;atk;0;1;10
+Hippodocus;sol;;63;18;19;11;12;8;Seisme;sol;atk;0;4;5
+Hypnomade;psy;;50;12;12;14;18;12;Prescience;psy;speatk;0;4;8
+Hyporoi;eau;dragon;45;16;14;18;16;14;Aria de l'Ecume;eau;speatk;0;3;6
+Insécateur;vol;insecte;40;18;13;10;14;17;Demi-Tour;insecte;atk;0;2;5
+Insolourdo;normal;;60;12;12;11;11;9;Demi-Tour;insecte;atk;0;2;5
+Ixon;normal;tenebres;55;16;18;11;14;13;Dark Lariat;tenebres;atk;0;3;5
+Joliflor;plante;;44;14;16;15;16;9;Giga-Sangsue;plante;speatk;0;2;3
+Jungko;plante;;42;17;9;14;10;19;Lame Feuille;plante;atk;0;3;5
+Kabutops;roche;eau;35;19;17;11;12;14;Aqua BrŠche;eau;atk;0;3;6
+Kaimorse;eau;glace;65;14;15;16;15;11;Surf;eau;speatk;0;2;6
+Kangourex;normal;;60;16;14;10;14;15;Tranche;normal;atk;0;2;6
+Kaorine;sol;psy;35;12;16;14;18;12;Prescience;psy;speatk;0;4;8
+Kapoera;combat;;32;17;17;7;12;13;Aeropique;vol;atk;0;3;5
+Kecleon;normal;;38;15;12;10;19;14;Tranche;normal;atk;0;2;6
+Kicklee;combat;;32;15;19;7;12;13;Pied Voltige;combat;atk;-3;4;8
+Krabboss;eau;;32;20;18;8;8;12;Pince Masse;eau;atk;-2;3;8
+Laggron;sol;eau;60;17;15;14;15;10;Hydroqueue;eau;atk;0;3;5
+Lamantine;eau;glace;53;12;14;12;16;11;Aqua BrŠche;eau;atk;0;3;6
+Lanturn;eau;electrique;70;11;10;16;13;12;Surf;eau;speatk;0;2;6
+Léviator;vol;eau;56;20;13;14;16;15;Hydroqueue;eau;atk;0;3;5
+Libégon;sol;dragon;46;16;12;16;12;16;Draco-Griffe;dragon;atk;0;3;5
+Linéon;normal;;46;13;11;9;11;17;Eclate Griffe;normal;atk;0;3;2
+Lippoutou;psy;glace;38;8;6;19;16;16;Prescience;psy;speatk;0;4;8
+Lockpin;normal;;43;14;14;10;16;16;Pied Voltige;combat;atk;-3;4;8
+Lokhlass;eau;glace;70;11;14;15;17;11;Aria de l'Ecume;eau;speatk;0;3;6
+Lovdisc;eau;;25;7;10;8;11;16;Choc Emotionnel;fee;atk;0;2;6
+Lucario;combat;acier;42;17;13;18;13;15;AurasphŠre;combat;speatk;0;3;5
+Ludicolo;eau;plante;46;12;12;15;16;12;Giga-Sangsue;plante;speatk;0;2;3
+Luminéon;eau;;42;12;13;12;14;15;Aria de l'Ecume;eau;speatk;0;3;6
+Lumivole;insecte;;38;9;13;13;14;14;Survinsecte;insecte;speatk;0;3;3
+Luxray;electrique;;46;19;11;16;11;14;Mƒchouille;tenebres;atk;0;3;7
+Mackogneur;combat;;53;21;15;11;11;11;Stratopercut;combat;atk;-1;3;5
+Maganon;feu;;45;16;12;20;16;14;Lance Flamme;feu;speatk;-1;3;7
+Magirêve;spectre;;40;7;7;17;17;17;Balle Ombre;spectre;speatk;0;3;5
+Magnézone;acier;electrique;42;12;18;20;15;11;Tonnerre;electrique;speatk;0;3;5
+Mammochon;sol;glace;65;16;13;15;10;9;Seisme;sol;atk;0;4;5
+Mangriff;normal;;42;19;11;11;11;15;Eclate Griffe;normal;atk;0;3;2
+Maraiste;sol;eau;55;15;15;12;12;7;Seisme;sol;atk;0;4;5
+Maskadra;vol;insecte;40;11;11;16;14;14;Demi-Tour;insecte;atk;0;2;5
+Méganium;plante;;46;14;16;14;16;13;Tempˆte Florale;plante;atk;0;3;5
+Mélodelfe;fee;;56;12;13;16;15;11;Choc Emotionnel;fee;atk;0;2;6
+Mélokrik;insecte;;40;14;12;12;11;12;Plaie Croix;insecte;atk;0;3;5
+Mentali;psy;;40;11;11;21;16;18;Puissance Cach‚e;psy;speatk;0;2;4
+Métalosse;acier;psy;48;21;20;17;15;11;Psykoud'boul;psy;atk;0;3;5
+Migalos;poison;insecte;42;15;12;11;12;8;Plaie Croix;insecte;atk;0;3;5
+Milobellus;eau;;56;11;13;16;20;14;Aria de l'Ecume;eau;speatk;0;3;6
+Momartik;spectre;glace;40;10;12;16;14;17;Balle Ombre;spectre;speatk;0;3;5
+Monaflémit;normal;;90;25;16;11;13;12;Marto-Poing;combat;atk;0;1;10
+Morphéo;normal;;35;12;12;12;12;12;Lance Flamme;feu;speatk;-1;3;7
+Motisma (Forme Normale);electrique;spectre;30;11;13;17;13;17;Tonnerre;electrique;speatk;0;3;5
+Moufflair;poison;tenebres;60;15;12;12;11;13;Mƒchouille;tenebres;atk;0;3;7
+Muciole;insecte;;38;13;13;8;14;14;Psykoud'boul;psy;atk;0;3;5
+Munja;insecte;spectre;1;15;10;15;9;10;Balle Ombre;spectre;speatk;0;3;5
+Mustéflott;eau;;50;17;10;14;9;19;Hydroqueue;eau;atk;0;3;5
+Mysdibule;acier;fee;35;16;16;11;11;12;Mƒchouille;tenebres;atk;0;3;7
+Négapi;electrique;;35;9;8;14;13;16;Tonnerre;electrique;speatk;0;3;5
+Nidoking;poison;sol;48;17;13;14;13;14;Seisme;sol;atk;0;4;5
+Nidoqueen;poison;sol;53;15;15;13;14;13;Seisme;sol;atk;0;4;5
+Ninjask;vol;insecte;35;15;10;9;10;22;Plaie Croix;insecte;atk;0;3;5
+Noadkoko;plante;psy;56;16;14;20;13;10;Canon Graine;plante;atk;0;3;5
+Noadkoko d'Alola;plante;dragon;56;17;14;20;13;9;Canon Graine;plante;atk;0;3;5
+Noarfang;normal;vol;60;13;11;13;16;12;Aeropique;vol;atk;0;3;5
+Noctali;tenebres;;55;11;18;11;21;11;Puissance Cach‚e;tenebres;speatk;0;2;4
+Noctunoir;spectre;;27;16;21;12;21;8;Balle Ombre;spectre;speatk;0;3;5
+Nostenfer;vol;poison;40;16;10;13;14;21;Aeropique;vol;atk;0;3;5
+Nymphali;fee;;55;11;11;18;21;11;Puissance Cach‚e;fee;speatk;0;2;4
+Octillery;eau;;45;17;12;17;12;8;Octazooka;eau;speatk;0;2;5
+Oniglali;glace;;47;15;13;15;13;15;Lyophilisation;glace;speatk;0;2;7
+Onix;sol;roche;45;16;20;10;14;14;Seisme;sol;atk;0;4;5
+Ossatueur;sol;;35;14;18;9;14;10;Charge d'Os;sol;atk;0;4;0
+Ossatueur d'Alola;spectre;feu;35;14;18;9;14;10;Charge d'Os;feu;atk;0;4;0
+Pachirisu;electrique;;35;10;12;14;15;16;Tonnerre;electrique;speatk;0;3;5
+Palarticho;combat;;37;21;16;12;14;12;Lame Feuille;plante;atk;0;3;5
+Papilord;vol;insecte;42;16;9;16;9;12;Demi-Tour;insecte;atk;0;2;5
+Papilusion;vol;insecte;35;9;10;15;14;13;Giga-Sangsue;plante;speatk;0;2;3
+Parasect;insecte;plante;35;16;14;11;14;6;Plaie Croix;insecte;atk;0;3;5
+Persian;normal;;38;16;10;11;10;18;Eclate Griffe;normal;atk;0;3;2
+Persian d'Alola;tenebres;;38;13;10;14;10;18;Eclate Griffe;normal;atk;0;3;2
+Pharamp;electrique;;53;13;11;19;15;12;Tonnerre;electrique;speatk;0;3;5
+Phyllali;plante;;40;18;21;11;11;16;Mƒchouille;tenebres;atk;0;3;7
+Pijako;normal;vol;45;11;10;15;10;14;Aria de l'Ecume;eau;speatk;0;3;6
+Pingoléon;acier;eau;50;14;15;17;17;10;Surf;eau;speatk;0;2;6
+Poissoroy;eau;;46;16;11;11;14;13;Aqua BrŠche;eau;atk;0;3;6
+Porygon-Z;normal;;50;14;12;21;13;15;Tripleattaque;normal;speatk;0;3;3
+Posipi;electrique;;35;9;8;14;13;16;Tonnerre;electrique;speatk;0;3;5
+Ptéra;vol;roche;50;18;14;11;8;21;Mƒchouille;tenebres;atk;0;3;7
+Pyroli;feu;;40;21;11;16;18;11;Mƒchouille;tenebres;atk;0;3;7
+Qwilfish;poison;eau;38;15;13;10;10;14;Hydroqueue;eau;atk;0;3;5
+Rafflesia;poison;plante;44;14;14;18;15;9;Giga-Sangsue;plante;speatk;0;2;3
+Raichu;electrique;;35;15;10;16;12;17;Tonnerre;electrique;speatk;0;3;5
+Raichu d'Alola;electrique;psy;35;14;9;16;13;18;Tonnerre;electrique;speatk;0;3;5
+Rapasdepic;normal;vol;38;15;11;11;11;16;Aeropique;vol;atk;0;3;5
+Rattatac;normal;;32;14;11;9;12;16;Croc de Mort;normal;atk;0;3;5
+Rattatac d'Alola;normal;tenebres;44;12;12;8;14;13;Croc de Mort;normal;atk;0;3;5
+Relicanth;roche;eau;60;15;20;8;11;10;Hydroqueue;eau;atk;0;3;5
+Rhinastoc;sol;roche;70;22;21;9;9;7;Griffe de Rock;roche;atk;0;2;6
+Roigada;eau;psy;56;13;12;16;17;6;Aria de l'Ecume;eau;speatk;0;3;6
+Ronflex;normal;;80;18;11;11;16;6;Seisme;sol;atk;0;4;5
+Rosabyss;eau;;37;14;17;18;12;9;Aria de l'Ecume;eau;speatk;0;3;6
+Roserade;poison;plante;35;12;11;20;17;15;Tempˆte Florale;plante;atk;0;3;5
+Roucarnage;normal;vol;49;16;13;10;12;17;Aeropique;vol;atk;0;3;5
+Sablaireau;sol;;44;16;17;9;10;11;Seisme;sol;atk;0;4;5
+Sablaireau d'Alola;acier;glace;44;16;19;6;11;10;Avalanche;glace;atk;0;2;5
+Scarabrute;insecte;;40;20;16;10;12;14;Plaie Croix;insecte;atk;0;3;5
+Scarhino;combat;insecte;46;20;13;7;13;15;Stratopercut;combat;atk;-1;3;5
+Scorvol;vol;sol;46;17;18;8;13;13;Plaie Croix;insecte;atk;0;3;5
+Séléroc;roche;psy;55;10;11;16;14;12;Prescience;psy;speatk;0;4;8
+Serpang;eau;;37;17;17;15;12;9;Aqua BrŠche;eau;atk;0;3;6
+Séviper;poison;;42;16;11;16;11;11;Mƒchouille;tenebres;atk;0;3;7
+Sharpedo;eau;tenebres;40;19;8;15;7;15;Mƒchouille;tenebres;atk;0;3;7
+Simiabraz;combat;feu;45;18;11;17;11;17;Stratopercut;combat;atk;-1;3;5
+Simularbre;roche;;42;16;19;8;13;8;DamoclŠs;normal;atk;0;1;10
+Smogogo;poison;;38;15;19;14;12;11;Cradovague;poison;speatk;0;3;5
+Smogogo de Galar;poison;fee;38;15;19;14;12;11;Vent F‚‚rique;fee;speatk;0;3;7
+Solaroc;roche;psy;55;16;14;10;11;12;Psykoud'boul;psy;atk;0;3;5
+Spinda;normal;;40;13;13;13;13;13;Mania;normal;atk;0;3;6
+Staross;eau;psy;35;13;14;16;14;19;Prescience;psy;speatk;0;4;8
+Steelix;sol;acier;55;15;30;10;14;6;Seisme;sol;atk;0;4;5
+Tarinorme;roche;acier;33;10;20;10;20;7;Gyroballe;acier;atk;0;3;5
+Tarpaud;eau;;53;13;13;15;16;12;Aria de l'Ecume;eau;speatk;0;3;6
+Tartard;combat;eau;53;16;16;12;15;12;Stratopercut;combat;atk;-1;3;5
+Tauros;normal;;45;16;16;7;12;18;DamoclŠs;normal;atk;0;1;10
+Ténéfix;spectre;tenebres;30;17;15;14;12;14;Mƒchouille;tenebres;atk;0;3;7
+Tengalice;plante;tenebres;53;16;11;15;10;14;Lame Feuille;plante;atk;0;3;5
+Tentacruel;poison;eau;46;12;11;13;19;16;Surf;eau;speatk;0;2;6
+Togekiss;vol;fee;50;11;16;19;18;14;Vent F‚‚rique;fee;speatk;0;3;7
+Tortank;eau;;46;14;16;14;17;12;Surf;eau;speatk;0;2;6
+Torterra;sol;plante;56;16;18;12;14;10;Seisme;sol;atk;0;4;5
+Triopikeur;sol;;22;16;9;9;12;25;Seisme;sol;atk;0;4;5
+Triopikeur d'Alola;sol;acier;21;16;11;9;12;18;Seisme;sol;atk;0;4;5
+Tritosor;sol;eau;60;14;13;15;14;7;Ocroupie;eau;speatk;-3;3;7
+Tropius;vol;plante;60;12;14;13;15;9;Giga-Sangsue;plante;speatk;0;2;3
+Tygnon;combat;;32;19;15;7;12;13;Stratopercut;combat;atk;-1;3;5
+Typhlosion;feu;;46;14;13;18;14;14;Lance Flamme;feu;speatk;-1;3;7
+Tyranocif;roche;tenebres;60;21;17;15;16;10;Seisme;sol;atk;0;4;5
+Ursaring;normal;;53;21;14;12;13;11;Tranche;normal;atk;0;2;6
+Vacilys;roche;plante;50;14;16;14;17;8;Pouvoir Antique;roche;speatk;0;3;3
+Volcaropod;roche;feu;35;10;19;16;14;8;Lance Flamme;feu;speatk;-1;3;7
+Voltali;electrique;;40;11;11;18;16;21;Puissance Cach‚e;electrique;speatk;0;2;4
+Vortente;plante;;44;16;12;15;12;8;Lame Feuille;plante;atk;0;3;5
+Wailord;eau;;100;14;9;14;9;2;Surf;eau;speatk;0;2;6
+Xatu;vol;psy;38;13;12;16;12;15;Prescience;psy;speatk;0;4;8
+Yanmega;vol;insecte;50;15;14;17;10;16;Plaie Croix;insecte;atk;0;3;5
