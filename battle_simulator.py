@@ -285,6 +285,3 @@ for i in range(241):
         #this indice allows us to know the progress
 
 df.to_csv("C:\\Users\\33606\\Documents\\JDR\\jdr Pokemon\\Livre de Base Beta\\Data\\result.csv")
-
-#To do ; Optimize the code (it takes 6-7 hours for my computer to compute every battle)
-#      ;  Add relative path
