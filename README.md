@@ -4,7 +4,7 @@ This is my adaptation of Pokémon to a tabletop roleplaying game.
 The files:
 - The file 'database.csv' contains the caracteristics of the Pokemon with one of their attack.
 - 'battle_simulator.py' is my first battle simulator. It uses the 'database.csv' to simulate the battle beetween each species of the dataset and report the result in the file 'result.csv'.
-- 'Win_rate.ipynb' is a jupyter notebook which uses the file 'result' and return the win_rate of each pokemon.  
+- 'Win_rate.ipynb' is a jupyter notebook which uses the file 'result.csv' and return the win_rate of each pokemon.  
 
 
 Through the analysis of the result. I discover that using different attacks influence to much the result of the battles. In addition, adding the most important abilities of each Pokemon will also improve the reliability of the result.
