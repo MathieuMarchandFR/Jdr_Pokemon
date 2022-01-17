@@ -5,7 +5,11 @@ The files:
 - The file 'database.csv' contains the caracteristics of the Pokemon with one of their attack.
 - 'battle_simulator.py' is my first battle simulator. It uses the 'database.csv' to simulate the battle beetween each species of the dataset and report the result in the file 'result.csv'.
 - 'Win_rate.ipynb' is a jupyter notebook which uses the file 'result' and return the win_rate of each pokemon.  
+
+
 Though the analysis of the result. I discover that using different attacks influence to much the result of the battles. In addition, adding the most important abilities of each Pokemon will also improve the reliability of the result.
+
+
 - The file 'pokemon_stat.xlsx' contains the statistics of the Pokemons.
 - The file 'pokemon_abilities.xlsx' contains the abilities of the Pokemons as booleans.
 - In the file 'clustering.ipynb', I used a k-mean algorithm to classify my Pokemons through different clusters.
