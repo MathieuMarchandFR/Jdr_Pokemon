@@ -7,7 +7,7 @@ The files:
 - 'Win_rate.ipynb' is a jupyter notebook which uses the file 'result' and return the win_rate of each pokemon.  
 
 
-Though the analysis of the result. I discover that using different attacks influence to much the result of the battles. In addition, adding the most important abilities of each Pokemon will also improve the reliability of the result.
+Through the analysis of the result. I discover that using different attacks influence to much the result of the battles. In addition, adding the most important abilities of each Pokemon will also improve the reliability of the result.
 
 
 - The file 'pokemon_stat.xlsx' contains the statistics of the Pokemons.
