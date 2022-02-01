@@ -17,6 +17,11 @@ Through the analysis of the result. I discover that using different attacks infl
 - 'battle_simulator_poke_abilities.ipynb' is the new battle simulator. It takes into account the abailities and the Pokemon uses the best type and the best offensive statistics depending his opponent to maximize the damages. The results are exported in the file 'result_abilities.csv'.
 - 'Enrich_the_data.ipynb' adds the win_rate and create the file 'poke_data.csv' which is ready to be analyzed.
 
+
+With a statistical method, I apply some changes on the dataset to balance the whole game.
+- The file 'battle_simulator_changes_analysis.ipynb' applies the changes, run the battle between Pokemons and show some results.
+
+
 'Web_scrapper.py' is a web scrapper using Beautiful Soup. It doesn't work for the moment.
 
 
